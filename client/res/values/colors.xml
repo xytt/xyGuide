@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="copyright_font">#CCCCCC</color>
+    <color name="background_sniffe_activity">#363B3D</color>
+</resources>
